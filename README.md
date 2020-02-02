@@ -9,3 +9,8 @@ main quest: find escape point in map and escape -> gain many point
 side quest: finish request in maps -> gain point
 
 progression in escape/ discovery -> gain point
+=====================================================================
+animal characters:
+bird: fly, spending stamina
+
+chicken: sprint, spending stamina
